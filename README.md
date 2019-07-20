@@ -69,7 +69,7 @@ $ airflow scheduler
 
 ## Contents
 
-`README.md`: this document.
-`dags/`: contains definition of `DAG`s
-`plugins/helpers/`: contains helper functions such as definition of sql used in this project.
-`plugins/operators`: contains definitions of custom operators.
+- `README.md`: this document.
+- `dags/`: contains definition of `DAG`s
+- `plugins/helpers/`: contains helper functions such as definition of sql used in this project.
+- `plugins/operators`: contains definitions of custom operators.
