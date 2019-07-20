@@ -11,7 +11,7 @@ from helpers import SqlQueries
 
 default_args = {
     'owner': 'udacity',
-    'start_date': datetime(2018, 12, 1),
+    'start_date': datetime(2018, 11, 5),
     'catchup': False,
     'retries': 3,
     'retry_delay': timedelta(minutes=5),
